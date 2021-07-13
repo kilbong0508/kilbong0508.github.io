@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: kb_avatar.jpg
+image: about_bg.jpg
 permalink: /about/
 ---
 
