@@ -48,7 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 7
+paginate: 10
 paginate_path: "/page/:num"
 
 include:
@@ -61,9 +61,9 @@ sass:
 
 #-------------------------------
 # Exclude from processing.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+ exclude:
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
