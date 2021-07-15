@@ -7,3 +7,6 @@ tags:   Life
 ---
 Creativ + Simple Design
 
+极简中融入设计元素！
+![]({{site.baseurl}}/kbdio.jpg)
+![](/kbdiologo_outline.jpg)
