@@ -8,5 +8,5 @@ tags:   LOGO
 Creativ + Simple Design
 
 极简中融入设计元素！
-![]({{site.baseurl}}/kbdio.jpg)
-![](/kbdiologo_outline.jpg)
+![](img/kbdio.jpg)
+![](img/kbdiologo_outline.jpg)
