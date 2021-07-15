@@ -6,8 +6,8 @@ image:  kbdio.jpg
 tags:   LOGO
 ---
 Creativ + Simple Design
-
 极简中融入设计元素！
+
 ![](/img/kb1.jpg)
 
 ![](/img/kbdiologo_outline.jpg)
