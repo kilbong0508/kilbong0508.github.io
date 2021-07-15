@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  The kbdio logo
+title:  The KBDIO LOGO
 date:   2020-03-23 16:03:30 +0300
 image:  kbdio.jpg
-tags:   Logo
+tags:   LOGO
 ---
 Creativ + Simple Design
 
